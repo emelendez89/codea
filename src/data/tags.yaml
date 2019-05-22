@@ -13,3 +13,11 @@
 - id: kwargs
   description: Los parámetros nombrados (kwargs) son soportados por algunos lenguajes de programación, y su característica distintiva es que al momento de invocar la función se específica claramente a qué variable se asignará el valor indicado.
   web: https://en.wikipedia.org/wiki/Named_parameter
+
+- id: javascript
+  description: Lenguaje de programacion interpretado creado para hacer contendio dinamico WEB y gracias a la migracion del motor V8 creado por Google hacia NodeJS se puede hacer contenido fuera del navegador Web.
+  web: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+- id: unicode
+  description: Pendiente...
+  web: https://es.wikipedia.org/wiki/Unicode
